@@ -1,5 +1,5 @@
 # 💫 About Me
-🎓 B.Tech Computer Science Student at Jyothi Engineering College  
+🎓 B.Tech Computer Science and Engineering Student at Jyothi Engineering College  
 
 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision  
 
