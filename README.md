@@ -61,24 +61,34 @@
 
 
 
-### 🌐 AI + Web Projects (Ongoing)
-- Developing **AI models integrated into web applications**
-- Exploring **full stack deployment for machine learning systems**
+### 🌐 AI + Web Applications
+- Developing AI-powered full stack web applications
+- Exploring scalable ML deployment and intelligent automation systems
+- Tech Stack:
+  **React.js, FastAPI, Firebase, SQL Server**
 
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Aswathyvariathuparambil&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+# 📊 GitHub Analytics
 
-![](https://nirzak-streak-stats.vercel.app/?user=Aswathyvariathuparambil&theme=shadow_blue&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswathyvariathuparambil&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswathyvariathuparambil&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathyvariathuparambil&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aswathyvariathuparambil&limit=5&theme=prussian&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathyvariathuparambil&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aswathyvariathuparambil&icon=9&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏆 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aswathyvariathuparambil&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+# ✨ Developer Quote
+> "Building intelligent systems that connect AI, cybersecurity, and real-world impact."
