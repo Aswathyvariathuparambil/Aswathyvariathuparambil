@@ -67,7 +67,7 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswathyvariathuparambil&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
+  
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswathyvariathuparambil&theme=tokyonight&hide_border=true" height="170"/>
 </p>
