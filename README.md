@@ -84,9 +84,7 @@
 
 # 🏆 GitHub Contributions
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aswathyvariathuparambil&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+
 
 ---
 
