@@ -73,9 +73,7 @@
 </p>
 
 
----
 
-# 🏆 GitHub Contributions
 
 
 
