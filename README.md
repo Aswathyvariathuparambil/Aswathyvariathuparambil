@@ -38,7 +38,7 @@
 - AI-powered document analysis and ESG score generation
 - Blockchain-backed audit records
 - RAG chatbot using FAISS and Sentence Transformers
-- 
+  
 ### 🔐 Android Malware Detection using Machine Learning
 - Developed a machine learning model to classify Android applications as **benign or malicious**
 - Used **Android permission-based dataset**
@@ -50,20 +50,10 @@
 - Applied **Normalized Difference Water Index (NDWI)** to detect water bodies
 - Demonstrated **remote sensing data analysis**
 
-### 🌍 Geo-Cyber Risk Heatmap using AI
-- Built an AI-powered cyber threat intelligence system that analyzes network traffic and predicts cyber risk levels
-- Used the **CICIDS dataset** with custom feature engineering for anomaly and threat-risk analysis
-- Developed a machine learning pipeline using **XGBoost** for cyber risk prediction
-- Implemented features such as:
-  - IP-based risk analysis
-  - Traffic intensity scoring
-  - Packet behavior analysis
-  - Geographic threat mapping
-- Created a **FastAPI backend** to serve real-time ML predictions
-- Integrated **Microsoft SQL Server** for storing attack logs and prediction data
-- Built an interactive **React + Leaflet frontend** to visualize cyber threats on a live world map
-- Technologies Used:
-  **Python, FastAPI, React.js, Leaflet.js, Scikit-learn, XGBoost, Pandas, SQL Server**
+### 🛡️ Geo-Cyber Risk Heatmap using AI
+- AI-powered cyber threat intelligence platform
+- Real-time cyber risk visualization dashboard
+- Built with FastAPI, React.js, and XGBoost
 
 
 
