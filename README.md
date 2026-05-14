@@ -31,8 +31,14 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
 
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
+### 🌍 AI-Powered ESG Carbon Footprint Auditing Platform
+- ESG reporting and carbon auditing platform
+- AI-powered document analysis and ESG score generation
+- Blockchain-backed audit records
+- RAG chatbot using FAISS and Sentence Transformers
+- 
 ### 🔐 Android Malware Detection using Machine Learning
 - Developed a machine learning model to classify Android applications as **benign or malicious**
 - Used **Android permission-based dataset**
